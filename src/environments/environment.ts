@@ -10,4 +10,13 @@
 
 export const environment = {
   production: false,
+  firebaseConfig: {
+    apiKey: "AIzaSyCWqLVd1mvc5WyyliozspWt9egDdgPbFbk",
+    authDomain: "houserenter-a3984.firebaseapp.com",
+    databaseURL: "https://houserenter-a3984-default-rtdb.firebaseio.com",
+    projectId: "houserenter-a3984",
+    storageBucket: "houserenter-a3984.appspot.com",
+    messagingSenderId: "836558037814",
+    appId: "1:836558037814:web:3fb497a375dffd4b1ec997"
+  }
 };

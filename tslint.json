@@ -7,7 +7,7 @@
       "severity": "warning"
     },
     "trailing-comma": [
-      true,
+      false,
       {
         "multiline": "always",
         "singleline": "never"
@@ -71,7 +71,7 @@
     ],
     "prefer-const": true,
     "quotemark": [
-      true,
+      false,
       "single"
     ],
     "radix": true,
